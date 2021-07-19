@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/houserepair/static/css/main.eb844de5.chunk.css",
-    "main.js": "/houserepair/static/js/main.7c0ef243.chunk.js",
-    "main.js.map": "/houserepair/static/js/main.7c0ef243.chunk.js.map",
+    "main.js": "/houserepair/static/js/main.8b4a3a3e.chunk.js",
+    "main.js.map": "/houserepair/static/js/main.8b4a3a3e.chunk.js.map",
     "runtime-main.js": "/houserepair/static/js/runtime-main.dce63621.js",
     "runtime-main.js.map": "/houserepair/static/js/runtime-main.dce63621.js.map",
     "static/js/2.f7ac5d89.chunk.js": "/houserepair/static/js/2.f7ac5d89.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.dce63621.js",
     "static/js/2.f7ac5d89.chunk.js",
     "static/css/main.eb844de5.chunk.css",
-    "static/js/main.7c0ef243.chunk.js"
+    "static/js/main.8b4a3a3e.chunk.js"
   ]
 }
